@@ -1,0 +1,6 @@
+timestamp,system,user,activity,activity_score
+2025-05-07T09:00:00,file,alice,file_read,30
+2025-05-07T09:05:00,login,bob,login-success,20
+2025-05-07T09:07:00,email,charlie,phishing-email,85
+2025-05-07T09:10:00,file,dave,file_write,25
+2025-05-07T09:15:00,login,alice,login-failure,90
